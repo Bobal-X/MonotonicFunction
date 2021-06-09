@@ -1,7 +1,7 @@
 # MonotonicFunction
 This app is calculating whether the input users amount as the function of time is monotonically increasing.
 
-You should first (https://medium.com/tinghaochen/how-to-install-pyspark-locally-94501eefe421)[install pyspark].
+You should first [<ins>install pyspark</ins>](https://medium.com/tinghaochen/how-to-install-pyspark-locally-94501eefe421).
 
 In order to run the app you should just run the main file with the following parameters:
 - The input directory:
